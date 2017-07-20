@@ -1,0 +1,102 @@
+
+
+
+.background{
+  background-image:url("bluebg.jpg");
+  height: 900px;
+  width: 2000px;
+}
+
+.formelements{
+	
+	height: 40px;
+	width:300px;
+	
+}
+table{
+	
+	border-collapse: collapse;
+	
+}
+tr td{
+	
+	padding: 10px;
+	font-size:25px;
+	color: orange;
+	
+}
+#submit{
+	font-size: 25px;
+	width:200px;
+	height:100px;
+	float: center; 
+}
+h1{
+	color:blue;
+	text-align:center;
+	font-family: Tahoma;
+}
+.form{
+	
+	position: absolute;
+	left: 650px;
+	top:200px;
+}
+caption {
+	
+	font-size: 35px;
+	color: orange;
+}
+#login {
+	width: 200px;
+	height: 72px;
+	position:absolute;
+
+	left:150px;
+	color: orange;
+	
+	
+}
+footer {
+	
+	text-align: center; 
+}
+
+#logout{
+	
+	position: absolute;
+	left:400px;
+	font: 25px;
+	color:red;
+
+	height:100px;
+	width:300px;
+}
+
+.container{
+  background-image:url("bluebg.jpg");
+  height: 900px;
+  width: 2000px;
+}
+th{
+	color:red;
+	font-size: 26px; 
+	
+	
+}
+.votebtn {
+	height : 35px;
+	width : 95px;
+	
+	
+}
+#gotovote{
+		position: absolute;
+	left:400px;
+	top: 500px;
+	font: 25px;
+	color:red;
+
+	height:100px;
+	width:300px;
+}
